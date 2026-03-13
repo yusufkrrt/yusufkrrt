@@ -49,7 +49,7 @@ I also enjoy working with **native mobile development** and systems programming.
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/yusufkrrt/yusufkrrt/blob/output/github-snake.svg)
+![snake gif](https://github.com/yusufkrrt/yusufkrrt/blob/output/github-snake-dark.svg)
 
 ---
 
